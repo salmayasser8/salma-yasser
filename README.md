@@ -10,8 +10,9 @@
 
 
 🏢 I'm a Software Engineer ( Frond-End ) <br>
-👨‍💻 As an Almadrsa student, I'm constantly learning and exploring new technologies to improve my skills. <br>
-💬 Ask me about my experience with JavaScript and ReactJS, or anything related to web development. <br>
+👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills. <br>
+💬 Ask me about my experience with HTML and CSS, or anything related to web development. <br>
+💬 Ask me about my experience with AI and ML, or anything related to AI. <br>
 ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. <br>
 
 
