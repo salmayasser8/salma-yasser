@@ -39,8 +39,8 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=201270862682)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledradwan96&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmayasser8&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<a href="https://komarev.com/ghpvc/?username=khaledradwan96&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=khaledradwan96&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=salmayasser8&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=salmayasser8&style=for-the-badge">
 </a>
