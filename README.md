@@ -35,7 +35,7 @@
  ### 🔗 Connect with Me :
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:khaledradwan96@gmail.com)](mailto:khaledradwan96@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/khaledradwan96)
+)](https://www.linkedin.com/in/salma-yasser-540b7a27a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![CodePen.io](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]([https://codepen.io/amrsayed74](https://codepen.io/khaledradwan96))
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=201145574637)
 
